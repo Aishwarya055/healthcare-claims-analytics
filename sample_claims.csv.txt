@@ -1,0 +1,5 @@
+claim_id,member_id,provider_id,claim_date,claim_type,procedure_cost,plan_type
+1001,M001,P001,2024-07-15,Inpatient,12500,Medicare
+1002,M002,P002,2024-07-18,Outpatient,2300,Employer
+1003,M003,P001,2024-08-01,Pharmacy,450,Medicaid
+1004,M004,P003,2024-08-10,Inpatient,9800,Individual

@@ -1,0 +1,5 @@
+member_id, age, gender, region, plan_type
+M001,68, F, West, Medicare
+M002,45, M, South, Employer
+M003,34, F, East, Medicaid
+M004,59, M, North, Individual

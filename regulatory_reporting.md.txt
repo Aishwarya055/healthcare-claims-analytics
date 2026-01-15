@@ -1,0 +1,9 @@
+## Regulatory Reporting 
+
+This project demonstrates analytics aligned with CMS and Medicaid-style reporting.
+
+Key principles:
+- Data accuracy and reconciliation
+- Timely submissions
+- Audit-ready documentation
+- HIPAA-aware handling of sensitive data

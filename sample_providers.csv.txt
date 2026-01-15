@@ -1,0 +1,4 @@
+provider_id,provider_name,specialty,region
+P001, General Hospital, Hospital, West
+P002, City Clinic, Clinic, South
+P003, Health Pharmacy, Pharmacy, North

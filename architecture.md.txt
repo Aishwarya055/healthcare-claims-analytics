@@ -1,0 +1,8 @@
+## System Architecture
+
+1. Claims, enrollment, and provider data ingested from source systems
+2. Data stored and modeled in Azure Synapse (star schema)
+3. SQL used for analytical queries and aggregations
+4. Python used for data quality checks and automation
+5. Power BI dashboards built on curated datasets
+6. Outputs used for executive reporting and compliance submissions
